@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Algorithms-Princeton">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://$USER_HOME$/Documents/C++/java/algs4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="jar://$USER_HOME$/Documents/C++/java/algs4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
